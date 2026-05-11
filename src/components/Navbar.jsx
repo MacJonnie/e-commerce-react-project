@@ -8,7 +8,7 @@ export default function Navbar(){
         <nav className="navbar">
             <div className="navbar-container">
                 <Link to="/" className="navbar-brand">
-                A-Gee Hub
+                A-Gee Fashion Hub
                 </Link>
                 <div className="navbar-links">
                     <Link to="/" className="navbar-link">Home</Link>
